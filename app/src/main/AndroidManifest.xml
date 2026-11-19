@@ -7,7 +7,7 @@
     <application
         android:label="АРМТЕК Запчасти"
         android:icon="@android:drawable/sym_def_app_icon"
-        android:theme="@android:style/Theme.Material.Light.NoActionBar">
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
 
         <activity
             android:name=".MainActivity"
